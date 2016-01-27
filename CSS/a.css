@@ -10,6 +10,9 @@ body{
 	padding: 10px 10px 10px 10px;
 	font-family: Cursive;
 	font-size:small;
+	background-image:url(../background.png);
+	background-repeat:no-repeat;
+	background-position:center;
 	}
 p{
 	font-family:Verdana,sans-serif;
