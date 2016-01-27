@@ -1,3 +1,7 @@
+@font-face{
+	font-family:Dubtone;
+	src:url(../DubTone.ttf);
+}
 body{
 	background-color: #d2b48c;
 	margin-left: 20%;
@@ -5,10 +9,22 @@ body{
 	border: 2px dotted black;
 	padding: 10px 10px 10px 10px;
 	font-family: Cursive;
+	font-size:small;
 	}
 p{
-	font-family:sans-serif;
+	font-family:Verdana,sans-serif;
+	line-height:1.6em;
 }
 h1.hello{
 	color:maroon;
+	font-size:250%;
+}
+a{
+	font-family:Dubtone;
+}
+.name{
+	background-color:white;
+	border: 2px dotted grey;
+	padding:20px;
+	margin: 5px;
 }
